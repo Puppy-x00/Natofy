@@ -4,4 +4,4 @@ Converts Words/Alphabets to NATO alphabets.
 ![](demo.gif)
 
 
-Hosted on AWS - S3 bucket.
+Hosted at 'natofy.com' on AWS - S3 bucket.
