@@ -22,7 +22,7 @@ let dict = {
     't' : 'Tango',
     'u' : 'Uniform',
     'v' : 'Victor',
-    'w' : 'Water',
+    'w' : 'Whiskey',
     'x' : 'Xray',
     'y' : 'Yankee',
     'z' : 'Zebra'
